@@ -1,0 +1,11 @@
+Sentence_1_ID,Sentence_2_ID,Sentence_1,Sentence_2,Cosine_Similarity
+1,2,Artificial intelligence is transforming many industries around the world.,Machine learning allows computers to learn patterns from data.,0.4359
+3,4,Researchers are developing new technologies for renewable energy.,Solar power is becoming an important source of clean electricity.,0.4977
+5,6,The government announced new measures to improve public education.,Online learning provides students with access to educational resources.,0.2384
+7,8,Scientists discovered new evidence about the formation of distant galaxies.,Space telescopes help astronomers study objects in the universe.,0.4999
+9,10,The football team won the championship after a close final match.,Athletes require regular training to improve their performance.,0.0876
+11,12,Climate change is causing significant changes in global weather patterns.,Rising temperatures are affecting ecosystems around the world.,0.5828
+13,14,Doctors are using artificial intelligence to assist with medical diagnosis.,Modern hospitals use digital systems to manage patient information.,0.512
+15,16,Electric vehicles are becoming more popular because they produce fewer emissions.,Battery technology is important for the future of electric transportation.,0.4997
+17,18,Cybersecurity protects computer systems from unauthorized access.,Strong passwords can help users protect their online accounts.,0.4708
+19,20,Social media platforms allow people to communicate and share information.,Digital communication has changed the way people interact with each other.,0.4121
